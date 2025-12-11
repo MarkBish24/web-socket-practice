@@ -1,0 +1,25 @@
+{
+  "name": "web-socket-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon justWsServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkBish24/web-socket-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MarkBish24/web-socket-practice/issues"
+  },
+  "homepage": "https://github.com/MarkBish24/web-socket-practice#readme",
+  "dependencies": {
+    "nodemon": "^3.1.11",
+    "ws": "^8.18.3"
+  }
+}
